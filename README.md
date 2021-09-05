@@ -1,4 +1,4 @@
-<h1> Time-Searies-Project </h1>
+<h1> Time-Series-Project </h1>
     
 <h3>1.. Packages Used to solve this problem </h3>
     

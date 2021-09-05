@@ -1,6 +1,6 @@
 <h1> Time-Searies-Project </h1>
     
-<h3>1.. Packages Used to solve this classification problem </h3>
+<h3>1.. Packages Used to solve this problem </h3>
     
             a. import numpy as np
             b. import pandas as pd
